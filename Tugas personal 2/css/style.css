@@ -1,0 +1,36 @@
+
+    .home {
+        margin-top: 50px;
+        background-color: azure;
+        height: 300px;
+    }    
+    
+    #about {
+        margin-top: 25px;
+        background-color: aqua;
+        height: 600px;
+    }
+    
+    #favorite {
+        margin-top: 25px;
+        background-color: #c8c1c1;
+        height: 600px;
+    }
+    
+    #contact {
+        margin-top: 25px;
+        background-color: lightblue;
+        height: 600px;
+    }
+
+    nav a {
+        background-color: blue;
+        color: #ffffff;
+        font-size: 1.3em;
+        padding: 1em 2em;
+        text-decoration: none;
+    }
+
+    img {
+        width: 300px;
+    }
